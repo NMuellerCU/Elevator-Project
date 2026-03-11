@@ -6,7 +6,7 @@ This program calculates the amount of time it takes for an elevator to travel be
 This program accepts input in either of these formats:
 - 'elevator start=1 floor=2,3,4,5'
 - 'start=1 floor=2,3,4,5'
-# Outputs
+## Outputs
 This program outputs:
 - The amount of time in seconds it takes for the elevator to travel through the floors.
 - The starting floor and floors visited by the elevator.
